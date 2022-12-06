@@ -36,7 +36,7 @@
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2022-12-06": 27,
+      "2022-12-06": 1353,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -65,9 +65,9 @@
     "url": "http://apicryto.ezyro.com/apidocs/",
     "icon": "https://icons.duckduckgo.com/ip3/apicryto.ezyro.com.ico",
     "slug": "api-bot-php",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 449,
     "timeMonth": 463,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-06": 0
+    }
   }
 ]
