@@ -13,7 +13,7 @@ sites:
     url: https://apibotphp2.herokuapp.com/public/
   
   - name: Signal Market
-    url: https://signal-market.vercel.app/
+    url: https://signalmarket.us/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
