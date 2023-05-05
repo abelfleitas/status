@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/primerwealth.com.ico",
     "slug": "wealth-primer",
     "status": "up",
-    "uptime": "47.55%",
+    "uptime": "47.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.55%",
+    "uptimeYear": "47.57%",
     "time": 307,
     "timeDay": 225,
     "timeWeek": 230,
@@ -196,9 +196,9 @@
     "url": "http://147.182.214.11/",
     "icon": "https://icons.duckduckgo.com/ip3/147.182.214.11.ico",
     "slug": "apwrite-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -207,6 +207,8 @@
     "timeWeek": 72,
     "timeMonth": 77,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-05": 0
+    }
   }
 ]
