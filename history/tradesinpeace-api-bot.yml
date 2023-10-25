@@ -1,7 +1,7 @@
 url: https://tradesinpeacebot.herokuapp.com/health
-status: up
-code: 200
-responseTime: 1349
-lastUpdated: 2023-10-24T23:04:36.998Z
+status: down
+code: 503
+responseTime: 170
+lastUpdated: 2023-10-25T19:52:35.212Z
 startTime: 2022-12-26T13:41:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
