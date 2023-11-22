@@ -9,17 +9,14 @@ sites:
   - name: Signal Market
     url: https://signalmarket.us/   
     
-  - name: My Computer Garage
-    url: https://bytemend1.odoo.com/
+  - name: Tuwex Inc
+    url: https://tuwexinc.com
     
   - name: Tradesinpeace API Bot
     url: https://tradesinpeacebot.herokuapp.com/health
   
   - name: API Bot PHP
     url: https://apibotphp2.herokuapp.com/public/
-    
-  - name: Apwrite Server
-    url: http://147.182.214.11/ 
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
