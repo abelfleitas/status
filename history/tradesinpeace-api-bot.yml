@@ -1,7 +1,7 @@
-url: https://tradesinpeacebot.herokuapp.com/health
+url: https://api.tuwexinc.com/health
 status: down
-code: 503
-responseTime: 43
-lastUpdated: 2023-12-02T23:04:26.136Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-03T19:16:58.111Z
 startTime: 2022-12-26T13:41:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
