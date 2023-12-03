@@ -13,7 +13,7 @@ sites:
     url: https://tuwexinc.com
     
   - name: Tradesinpeace API Bot
-    url: https://tradesinpeacebot.herokuapp.com/health
+    url: https://api.tuwexinc.com/health
   
   - name: API Bot PHP
     url: https://apibotphp2.herokuapp.com/public/
