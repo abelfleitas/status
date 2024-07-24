@@ -1,6 +1,7 @@
 # Change these first
 owner: abelfleitas # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: abelfleitas
 
 sites:    
   - name: Signal Market
@@ -8,6 +9,12 @@ sites:
     
   - name: Tuwex Inc
     url: https://tuwexinc.com
+
+  - name: Admin Tuwex Inc
+    url: https://admin.tuwexinc.com
+
+  - name: Admin Sandbox Tuwex Inc
+    url: https://admin-dev.tuwexinc.com    
     
   - name: Tuwexinc API
     url: https://api.tuwexinc.com/health
@@ -27,7 +34,7 @@ status-website:
   cname: status.tuwexinc.com
   #baseUrl: status
   logoUrl: https://raw.githubusercontent.com/abelfleitas/status/master/assets/logo.svg
-  name: Status Tuwex Inc
+  name: Status | Tuwex Inc
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: ocean 
