@@ -1,1 +1,1 @@
-# [📈 Live Status](https://abelfleitas.github.io/status):
+# [📈 Live Status](https://status.tuwexinc.com)
