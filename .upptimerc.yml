@@ -19,7 +19,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tuwexinc.com
-  baseUrl: /status
+  baseUrl: status
   logoUrl: https://firebasestorage.googleapis.com/v0/b/tradesinpeace.appspot.com/o/app%2Fphoto_2021-11-27_13-23-44.jpg?alt=media&token=58a108f4-9e7e-47b2-91a3-abb10bc3364d
   name: Status
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
