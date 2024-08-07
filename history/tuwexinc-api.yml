@@ -1,7 +1,7 @@
 url: https://api.tuwexinc.com/health
-status: up
-code: 200
-responseTime: 1277
-lastUpdated: 2024-08-06T23:05:18.761Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-08-07T01:04:00.034Z
 startTime: 2024-02-19T04:46:43.186Z
 generator: Upptime <https://github.com/upptime/upptime>
