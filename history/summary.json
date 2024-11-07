@@ -115,18 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "up",
-    "uptime": "94.07%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "94.07%",
+    "uptime": "94.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "94.08%",
     "time": 7000,
     "timeDay": 1522,
     "timeWeek": 4859,
     "timeMonth": 9188,
     "timeYear": 7000,
     "dailyMinutesDown": {
-      "2024-11-06": 6,
       "2024-11-05": 29,
       "2024-11-04": 53,
       "2024-11-03": 38,
@@ -279,7 +278,8 @@
     "timeMonth": 170,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-11-06": 1423,
+      "2024-11-07": 2,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -632,8 +632,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   }
 ]
