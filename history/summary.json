@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "79.99%",
+    "uptime": "80.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.99%",
+    "uptimeYear": "80.00%",
     "time": 131,
     "timeDay": 59,
     "timeWeek": 104,
@@ -117,9 +117,9 @@
     "url": "https://api.tuwexinc.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
-    "status": "up",
+    "status": "down",
     "uptime": "95.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "95.25%",
@@ -129,6 +129,7 @@
     "timeMonth": 2752,
     "timeYear": 6359,
     "dailyMinutesDown": {
+      "2025-01-10": 0,
       "2025-01-08": 27,
       "2025-01-03": 21,
       "2024-12-01": 18,
@@ -225,8 +226,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 843,
-      "2024-03-27": 26,
-      "2024-03-22": 19
+      "2024-03-27": 26
     }
   },
   {
@@ -282,7 +282,7 @@
     "timeMonth": 141,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-01-10": 2,
+      "2025-01-10": 131,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
