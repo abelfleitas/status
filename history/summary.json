@@ -4,10 +4,10 @@
     "url": "https://signalmarket.us",
     "icon": "https://icons.duckduckgo.com/ip3/signalmarket.us.ico",
     "slug": "signal-market",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 106,
@@ -16,6 +16,7 @@
     "timeMonth": 199,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2025-01-14": 0,
       "2025-01-07": 22
     }
   },
@@ -46,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "80.46%",
+    "uptime": "80.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.46%",
+    "uptimeYear": "80.49%",
     "time": 131,
     "timeDay": 103,
     "timeWeek": 109,
@@ -119,9 +120,9 @@
     "slug": "tuwexinc-api",
     "status": "up",
     "uptime": "95.31%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "95.31%",
     "time": 6320,
     "timeDay": 781,
@@ -129,7 +130,6 @@
     "timeMonth": 2974,
     "timeYear": 6320,
     "dailyMinutesDown": {
-      "2025-01-14": 9,
       "2025-01-10": 28,
       "2025-01-08": 27,
       "2025-01-03": 21,
@@ -226,7 +226,8 @@
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
-      "2024-04-02": 843
+      "2024-04-02": 843,
+      "2024-03-27": 26
     }
   },
   {
@@ -271,7 +272,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "45.91%",
+    "uptime": "45.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -282,7 +283,7 @@
     "timeMonth": 141,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-01-14": 178,
+      "2025-01-14": 600,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
