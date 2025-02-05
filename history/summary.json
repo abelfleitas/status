@@ -6,9 +6,9 @@
     "slug": "signal-market",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.94%",
     "time": 185,
     "timeDay": 116,
@@ -16,7 +16,6 @@
     "timeMonth": 391,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-02-04": 8,
       "2025-02-03": 24,
       "2025-01-29": 15,
       "2025-01-27": 57,
@@ -43,7 +42,7 @@
     "time": 1411,
     "timeDay": 2780,
     "timeWeek": 1483,
-    "timeMonth": 2028,
+    "timeMonth": 2010,
     "timeYear": 1633,
     "dailyMinutesDown": {
       "2025-01-06": 32
@@ -55,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "82.64%",
+    "uptime": "82.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.64%",
+    "uptimeYear": "82.65%",
     "time": 131,
     "timeDay": 123,
     "timeWeek": 131,
@@ -283,7 +282,8 @@
     "timeMonth": 264,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-02-04": 1419,
+      "2025-02-05": 2,
+      "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -636,8 +636,7 @@
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
-      "2024-02-07": 1440,
-      "2024-02-06": 1440
+      "2024-02-07": 1440
     }
   }
 ]
