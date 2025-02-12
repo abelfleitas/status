@@ -129,18 +129,19 @@
     "url": "https://api.tuwexinc.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
-    "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.84%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.84%",
     "time": 6075,
     "timeDay": 1058,
     "timeWeek": 1100,
     "timeMonth": 2040,
     "timeYear": 6075,
     "dailyMinutesDown": {
+      "2025-02-12": 0,
       "2025-02-04": 18,
       "2025-01-31": 24,
       "2025-01-29": 56,
@@ -229,8 +230,7 @@
       "2024-04-30": 52,
       "2024-04-29": 16,
       "2024-04-26": 22,
-      "2024-04-14": 319,
-      "2024-04-13": 16
+      "2024-04-14": 319
     }
   },
   {
@@ -286,7 +286,7 @@
     "timeMonth": 271,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-02-12": 2,
+      "2025-02-12": 32,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
