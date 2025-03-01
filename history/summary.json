@@ -4,9 +4,9 @@
     "url": "https://signalmarket.us",
     "icon": "https://icons.duckduckgo.com/ip3/signalmarket.us.ico",
     "slug": "signal-market",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.84%",
@@ -145,9 +145,9 @@
     "slug": "tuwexinc-api",
     "status": "up",
     "uptime": "97.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "97.91%",
     "time": 5959,
     "timeDay": 2492,
@@ -155,7 +155,6 @@
     "timeMonth": 2998,
     "timeYear": 5678,
     "dailyMinutesDown": {
-      "2025-03-01": 11,
       "2025-02-20": 30,
       "2025-02-18": 49,
       "2025-02-15": 16,
@@ -246,7 +245,8 @@
       "2024-05-11": 26,
       "2024-05-04": 29,
       "2024-04-30": 52,
-      "2024-04-29": 16
+      "2024-04-29": 16,
+      "2024-04-26": 22
     }
   },
   {
@@ -302,7 +302,7 @@
     "timeMonth": 149,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-03-01": 779,
+      "2025-03-01": 812,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
