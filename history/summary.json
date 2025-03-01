@@ -6,17 +6,17 @@
     "slug": "signal-market",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "99.85%",
     "time": 194,
     "timeDay": 110,
     "timeWeek": 371,
-    "timeMonth": 247,
+    "timeMonth": 258,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-02-28": 23,
+      "2025-02-28": 15,
       "2025-02-27": 16,
       "2025-02-26": 47,
       "2025-02-25": 15,
@@ -59,8 +59,8 @@
     "time": 1411,
     "timeDay": 433,
     "timeWeek": 1796,
-    "timeMonth": 1420,
-    "timeYear": 1665,
+    "timeMonth": 1442,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2025-01-06": 32
     }
@@ -133,7 +133,7 @@
     "time": 177,
     "timeDay": 130,
     "timeWeek": 191,
-    "timeMonth": 183,
+    "timeMonth": 184,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -146,13 +146,13 @@
     "uptime": "97.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "97.91%",
     "time": 5968,
     "timeDay": 4389,
     "timeWeek": 5638,
-    "timeMonth": 3266,
-    "timeYear": 5716,
+    "timeMonth": 3009,
+    "timeYear": 5687,
     "dailyMinutesDown": {
       "2025-02-20": 30,
       "2025-02-18": 49,
@@ -262,7 +262,7 @@
     "time": 164,
     "timeDay": 113,
     "timeWeek": 179,
-    "timeMonth": 193,
+    "timeMonth": 192,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -280,7 +280,7 @@
     "time": 158,
     "timeDay": 122,
     "timeWeek": 183,
-    "timeMonth": 169,
+    "timeMonth": 167,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -293,15 +293,16 @@
     "uptime": "43.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "2.74%",
+    "uptimeMonth": "7.96%",
+    "uptimeYear": "3.01%",
     "time": 166,
     "timeDay": 119,
     "timeWeek": 156,
-    "timeMonth": 144,
-    "timeYear": 174,
+    "timeMonth": 149,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-02-28": 1434,
+      "2025-03-01": 2,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -654,8 +655,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   }
 ]
