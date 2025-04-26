@@ -6,9 +6,9 @@
     "slug": "signal-market",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "99.63%",
     "time": 188,
     "timeDay": 1101,
@@ -16,7 +16,6 @@
     "timeMonth": 177,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-04-25": 8,
       "2025-04-24": 15,
       "2025-04-23": 27,
       "2025-04-22": 43,
@@ -178,10 +177,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "down",
-    "uptime": "92.51%",
+    "uptime": "92.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.40%",
+    "uptimeMonth": "18.39%",
     "uptimeYear": "91.13%",
     "time": 5512,
     "timeDay": 82,
@@ -189,7 +188,8 @@
     "timeMonth": 1355,
     "timeYear": 4479,
     "dailyMinutesDown": {
-      "2025-04-25": 1434,
+      "2025-04-26": 2,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -360,7 +360,8 @@
     "timeMonth": 143,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-04-25": 1434,
+      "2025-04-26": 2,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -713,8 +714,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   }
 ]
