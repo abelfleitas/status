@@ -4,15 +4,15 @@
     "url": "https://signalmarket.us",
     "icon": "https://icons.duckduckgo.com/ip3/signalmarket.us.ico",
     "slug": "signal-market",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "97.52%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 200,
     "timeDay": 221,
-    "timeWeek": 293,
+    "timeWeek": 298,
     "timeMonth": 181,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -92,8 +92,7 @@
       "2025-02-17": 15,
       "2025-02-16": 33,
       "2025-02-13": 32,
-      "2025-02-12": 35,
-      "2025-02-10": 20
+      "2025-02-12": 35
     }
   },
   {
@@ -194,7 +193,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "down",
-    "uptime": "81.42%",
+    "uptime": "81.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -205,7 +204,7 @@
     "timeMonth": 218,
     "timeYear": 4457,
     "dailyMinutesDown": {
-      "2025-06-23": 1122,
+      "2025-06-23": 1228,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -417,7 +416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "38.16%",
+    "uptime": "38.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -428,7 +427,7 @@
     "timeMonth": 156,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-06-23": 1122,
+      "2025-06-23": 1229,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
