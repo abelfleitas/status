@@ -11,9 +11,9 @@
     "uptimeMonth": "98.54%",
     "uptimeYear": "99.53%",
     "time": 203,
-    "timeDay": 558,
-    "timeWeek": 354,
-    "timeMonth": 198,
+    "timeDay": 629,
+    "timeWeek": 359,
+    "timeMonth": 199,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-06-25": 65,
@@ -174,9 +174,9 @@
     "url": "https://admin-dev.tuwexinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.tuwexinc.com.ico",
     "slug": "admin-sandbox-tuwex-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,7 +185,9 @@
     "timeWeek": 194,
     "timeMonth": 198,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-25": 0
+    }
   },
   {
     "name": "Tuwexinc API",
@@ -193,7 +195,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "down",
-    "uptime": "81.20%",
+    "uptime": "81.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -204,7 +206,7 @@
     "timeMonth": 211,
     "timeYear": 4465,
     "dailyMinutesDown": {
-      "2025-06-25": 191,
+      "2025-06-25": 568,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -416,7 +418,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "38.10%",
+    "uptime": "38.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -427,7 +429,7 @@
     "timeMonth": 154,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-06-25": 191,
+      "2025-06-25": 568,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
