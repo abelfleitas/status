@@ -4,16 +4,16 @@
     "url": "https://signalmarket.us",
     "icon": "https://icons.duckduckgo.com/ip3/signalmarket.us.ico",
     "slug": "signal-market",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "93.96%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "94.15%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "98.54%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 203,
     "timeDay": 629,
     "timeWeek": 365,
-    "timeMonth": 199,
+    "timeMonth": 200,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-06-25": 65,
@@ -91,8 +91,7 @@
       "2025-02-22": 26,
       "2025-02-21": 37,
       "2025-02-18": 36,
-      "2025-02-17": 15,
-      "2025-02-16": 33
+      "2025-02-17": 15
     }
   },
   {
@@ -176,18 +175,16 @@
     "slug": "admin-sandbox-tuwex-inc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 209,
     "timeWeek": 197,
     "timeMonth": 198,
     "timeYear": 184,
-    "dailyMinutesDown": {
-      "2025-06-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tuwexinc API",
@@ -195,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "down",
-    "uptime": "81.15%",
+    "uptime": "81.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -206,7 +203,7 @@
     "timeMonth": 211,
     "timeYear": 4465,
     "dailyMinutesDown": {
-      "2025-06-25": 579,
+      "2025-06-25": 751,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -429,7 +426,7 @@
     "timeMonth": 154,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-06-25": 579,
+      "2025-06-25": 751,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
