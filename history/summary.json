@@ -12,7 +12,7 @@
     "uptimeYear": "99.53%",
     "time": 203,
     "timeDay": 629,
-    "timeWeek": 359,
+    "timeWeek": 365,
     "timeMonth": 199,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -121,11 +121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "89.89%",
+    "uptime": "89.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.89%",
+    "uptimeYear": "89.90%",
     "time": 137,
     "timeDay": 141,
     "timeWeek": 153,
@@ -174,19 +174,19 @@
     "url": "https://admin-dev.tuwexinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.tuwexinc.com.ico",
     "slug": "admin-sandbox-tuwex-inc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 203,
-    "timeWeek": 194,
+    "timeDay": 209,
+    "timeWeek": 197,
     "timeMonth": 198,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-06-25": 0
+      "2025-06-25": 11
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeMonth": 211,
     "timeYear": 4465,
     "dailyMinutesDown": {
-      "2025-06-25": 568,
+      "2025-06-25": 579,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -429,7 +429,7 @@
     "timeMonth": 154,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-06-25": 568,
+      "2025-06-25": 579,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
