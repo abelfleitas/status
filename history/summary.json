@@ -11,9 +11,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.54%",
     "time": 230,
-    "timeDay": 444,
-    "timeWeek": 691,
-    "timeMonth": 803,
+    "timeDay": 415,
+    "timeWeek": 603,
+    "timeMonth": 802,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2025-07-25": 37,
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1938,
-    "timeDay": 2724,
-    "timeWeek": 1839,
-    "timeMonth": 2062,
-    "timeYear": 2236,
+    "time": 1943,
+    "timeDay": 2682,
+    "timeWeek": 1706,
+    "timeMonth": 2056,
+    "timeYear": 2238,
     "dailyMinutesDown": {
       "2025-01-06": 32
     }
@@ -120,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "90.73%",
+    "uptime": "90.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.10%",
+    "uptimeYear": "91.16%",
     "time": 138,
-    "timeDay": 160,
-    "timeWeek": 159,
-    "timeMonth": 151,
+    "timeDay": 61,
+    "timeWeek": 143,
+    "timeMonth": 150,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2024-08-27": 376,
@@ -162,8 +162,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -178,9 +177,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 206,
-    "timeWeek": 245,
-    "timeMonth": 201,
+    "timeDay": 196,
+    "timeWeek": 247,
+    "timeMonth": 203,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -190,18 +189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "down",
-    "uptime": "76.44%",
+    "uptime": "76.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.88%",
-    "time": 3930,
-    "timeDay": 81,
-    "timeWeek": 198,
-    "timeMonth": 184,
-    "timeYear": 4525,
+    "uptimeYear": "67.81%",
+    "time": 3924,
+    "timeDay": 247,
+    "timeWeek": 220,
+    "timeMonth": 183,
+    "timeYear": 4523,
     "dailyMinutesDown": {
-      "2025-07-25": 1113,
+      "2025-07-26": 2,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -387,8 +387,7 @@
       "2024-08-08": 27,
       "2024-08-07": 35,
       "2024-08-04": 30,
-      "2024-08-01": 31,
-      "2024-07-26": 31
+      "2024-08-01": 31
     }
   },
   {
@@ -403,8 +402,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 110,
-    "timeWeek": 199,
+    "timeDay": 169,
+    "timeWeek": 191,
     "timeMonth": 203,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -422,10 +421,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 237,
-    "timeWeek": 207,
-    "timeMonth": 202,
+    "time": 171,
+    "timeDay": 106,
+    "timeWeek": 202,
+    "timeMonth": 201,
     "timeYear": 172,
     "dailyMinutesDown": {}
   },
@@ -435,18 +434,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "36.92%",
+    "uptime": "36.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 170,
-    "timeDay": 64,
-    "timeWeek": 189,
-    "timeMonth": 165,
+    "timeDay": 321,
+    "timeWeek": 227,
+    "timeMonth": 164,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-07-25": 1113,
+      "2025-07-26": 2,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -809,8 +809,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   }
 ]
