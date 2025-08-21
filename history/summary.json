@@ -11,9 +11,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.53%",
     "time": 248,
-    "timeDay": 141,
-    "timeWeek": 116,
-    "timeMonth": 675,
+    "timeDay": 170,
+    "timeWeek": 132,
+    "timeMonth": 680,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-08-10": 29,
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2025,
-    "timeDay": 514,
-    "timeWeek": 2846,
-    "timeMonth": 2104,
-    "timeYear": 2261,
+    "time": 2030,
+    "timeDay": 3735,
+    "timeWeek": 2894,
+    "timeMonth": 2193,
+    "timeYear": 2263,
     "dailyMinutesDown": {
       "2025-01-06": 32
     }
@@ -120,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "91.33%",
+    "uptime": "91.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.01%",
-    "time": 144,
-    "timeDay": 244,
-    "timeWeek": 230,
-    "timeMonth": 216,
+    "uptimeYear": "98.28%",
+    "time": 145,
+    "timeDay": 290,
+    "timeWeek": 226,
+    "timeMonth": 219,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-07-26": 16,
@@ -137,8 +137,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   },
   {
@@ -153,10 +152,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 786,
-    "timeWeek": 361,
-    "timeMonth": 329,
-    "timeYear": 198,
+    "timeDay": 278,
+    "timeWeek": 339,
+    "timeMonth": 330,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -165,18 +164,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "down",
-    "uptime": "76.99%",
+    "uptime": "76.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.40%",
+    "uptimeWeek": "59.12%",
     "uptimeMonth": "71.39%",
-    "uptimeYear": "67.12%",
-    "time": 3981,
+    "uptimeYear": "66.85%",
+    "time": 3984,
     "timeDay": 0,
-    "timeWeek": 2685,
-    "timeMonth": 1894,
-    "timeYear": 4512,
+    "timeWeek": 418,
+    "timeMonth": 1940,
+    "timeYear": 4524,
     "dailyMinutesDown": {
-      "2025-08-20": 2,
+      "2025-08-21": 2,
+      "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1239,
       "2025-07-28": 17,
@@ -356,8 +356,7 @@
       "2024-09-07": 20,
       "2024-09-03": 23,
       "2024-09-02": 58,
-      "2024-08-23": 54,
-      "2024-08-21": 32
+      "2024-08-23": 54
     }
   },
   {
@@ -372,9 +371,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 199,
-    "timeWeek": 281,
-    "timeMonth": 230,
+    "timeDay": 382,
+    "timeWeek": 311,
+    "timeMonth": 233,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-06-12": 58
@@ -392,10 +391,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 164,
-    "timeWeek": 289,
+    "timeDay": 238,
+    "timeWeek": 300,
     "timeMonth": 230,
-    "timeYear": 178,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -404,18 +403,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "35.99%",
+    "uptime": "35.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 173,
-    "timeDay": 136,
-    "timeWeek": 190,
-    "timeMonth": 193,
+    "timeDay": 203,
+    "timeWeek": 212,
+    "timeMonth": 189,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-08-20": 2,
+      "2025-08-21": 2,
+      "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -778,8 +778,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   }
 ]
