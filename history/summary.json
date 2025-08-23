@@ -11,9 +11,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.53%",
     "time": 248,
-    "timeDay": 56,
-    "timeWeek": 128,
-    "timeMonth": 670,
+    "timeDay": 59,
+    "timeWeek": 126,
+    "timeMonth": 669,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-08-10": 29,
@@ -101,17 +101,16 @@
     "slug": "tuwex-inc",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2044,
-    "timeDay": 3714,
-    "timeWeek": 2973,
-    "timeMonth": 2328,
-    "timeYear": 2276,
+    "time": 2049,
+    "timeDay": 3680,
+    "timeWeek": 2925,
+    "timeMonth": 2344,
+    "timeYear": 2275,
     "dailyMinutesDown": {
-      "2025-08-22": 8,
       "2025-01-06": 32
     }
   },
@@ -125,19 +124,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.83%",
     "time": 145,
-    "timeDay": 257,
-    "timeWeek": 233,
-    "timeMonth": 224,
-    "timeYear": 146,
+    "timeDay": 225,
+    "timeWeek": 238,
+    "timeMonth": 227,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2025-07-26": 16,
       "2024-08-27": 376,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
-      "2024-08-24": 1440,
-      "2024-08-23": 1440
+      "2024-08-24": 1440
     }
   },
   {
@@ -147,18 +145,16 @@
     "slug": "admin-sandbox-tuwex-inc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 513,
-    "timeWeek": 416,
-    "timeMonth": 339,
+    "timeDay": 290,
+    "timeWeek": 400,
+    "timeMonth": 337,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2025-08-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tuwexinc API",
@@ -169,13 +165,13 @@
     "uptime": "76.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "54.12%",
-    "uptimeMonth": "76.21%",
+    "uptimeMonth": "76.82%",
     "uptimeYear": "66.76%",
-    "time": 3992,
-    "timeDay": 78,
-    "timeWeek": 2082,
-    "timeMonth": 2152,
-    "timeYear": 4538,
+    "time": 3990,
+    "timeDay": 75,
+    "timeWeek": 2058,
+    "timeMonth": 2147,
+    "timeYear": 4535,
     "dailyMinutesDown": {
       "2025-08-21": 506,
       "2025-08-20": 1440,
@@ -357,8 +353,7 @@
       "2024-09-10": 33,
       "2024-09-07": 20,
       "2024-09-03": 23,
-      "2024-09-02": 58,
-      "2024-08-23": 54
+      "2024-09-02": 58
     }
   },
   {
@@ -373,9 +368,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 418,
-    "timeWeek": 345,
-    "timeMonth": 243,
+    "timeDay": 174,
+    "timeWeek": 341,
+    "timeMonth": 244,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-06-12": 58
@@ -393,9 +388,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 421,
-    "timeWeek": 287,
-    "timeMonth": 238,
+    "timeDay": 169,
+    "timeWeek": 285,
+    "timeMonth": 237,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -411,12 +406,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 173,
-    "timeDay": 42,
-    "timeWeek": 172,
-    "timeMonth": 189,
+    "timeDay": 41,
+    "timeWeek": 170,
+    "timeMonth": 180,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-08-22": 1177,
+      "2025-08-23": 2,
+      "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -779,8 +775,7 @@
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
-      "2024-08-24": 1440,
-      "2024-08-23": 1440
+      "2024-08-24": 1440
     }
   }
 ]
