@@ -101,9 +101,9 @@
     "slug": "tuwex-inc",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1906,
     "timeDay": 2256,
@@ -111,7 +111,6 @@
     "timeMonth": 2471,
     "timeYear": 2297,
     "dailyMinutesDown": {
-      "2025-08-26": 7,
       "2025-01-06": 32
     }
   },
@@ -125,15 +124,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 146,
     "timeDay": 449,
     "timeWeek": 257,
     "timeMonth": 240,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-07-26": 16,
-      "2024-08-27": 376
+      "2025-07-26": 16
     }
   },
   {
@@ -143,18 +141,16 @@
     "slug": "admin-sandbox-tuwex-inc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 450,
     "timeWeek": 323,
     "timeMonth": 343,
     "timeYear": 204,
-    "dailyMinutesDown": {
-      "2025-08-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tuwexinc API",
@@ -163,9 +159,9 @@
     "slug": "tuwexinc-api",
     "status": "up",
     "uptime": "77.04%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "80.60%",
-    "uptimeMonth": "89.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "80.71%",
+    "uptimeMonth": "89.40%",
     "uptimeYear": "66.77%",
     "time": 3956,
     "timeDay": 279,
@@ -173,7 +169,6 @@
     "timeMonth": 1256,
     "timeYear": 4505,
     "dailyMinutesDown": {
-      "2025-08-26": 6,
       "2025-08-21": 506,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -412,7 +407,8 @@
     "timeMonth": 182,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-08-26": 1437,
+      "2025-08-27": 2,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -775,8 +771,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
