@@ -6,17 +6,16 @@
     "slug": "signal-market",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.53%",
     "time": 249,
-    "timeDay": 88,
-    "timeWeek": 118,
-    "timeMonth": 487,
+    "timeDay": 79,
+    "timeWeek": 102,
+    "timeMonth": 495,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-09-02": 13,
       "2025-08-10": 29,
       "2025-08-07": 21,
       "2025-08-05": 15,
@@ -91,7 +90,8 @@
       "2025-03-10": 15,
       "2025-03-08": 67,
       "2025-03-07": 15,
-      "2025-03-05": 16
+      "2025-03-05": 16,
+      "2025-03-03": 27
     }
   },
   {
@@ -105,11 +105,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 2019,
-    "timeDay": 1508,
-    "timeWeek": 2321,
-    "timeMonth": 2572,
-    "timeYear": 2314,
+    "time": 2025,
+    "timeDay": 3642,
+    "timeWeek": 2376,
+    "timeMonth": 2581,
+    "timeYear": 2322,
     "dailyMinutesDown": {
       "2025-08-28": 35,
       "2025-01-06": 32
@@ -121,15 +121,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "91.61%",
+    "uptime": "91.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 197,
-    "timeWeek": 283,
-    "timeMonth": 241,
+    "timeDay": 183,
+    "timeWeek": 245,
+    "timeMonth": 242,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2025-07-26": 16
@@ -147,9 +147,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 231,
-    "timeWeek": 422,
-    "timeMonth": 376,
+    "timeDay": 190,
+    "timeWeek": 410,
+    "timeMonth": 375,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-08-28": 34
@@ -161,16 +161,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "up",
-    "uptime": "77.30%",
+    "uptime": "77.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "89.40%",
     "uptimeYear": "66.78%",
-    "time": 3956,
-    "timeDay": 230,
-    "timeWeek": 237,
-    "timeMonth": 681,
-    "timeYear": 4164,
+    "time": 3955,
+    "timeDay": 146,
+    "timeWeek": 228,
+    "timeMonth": 690,
+    "timeYear": 4136,
     "dailyMinutesDown": {
       "2025-08-28": 19,
       "2025-08-21": 506,
@@ -351,8 +351,7 @@
       "2024-09-17": 21,
       "2024-09-12": 26,
       "2024-09-10": 33,
-      "2024-09-07": 20,
-      "2024-09-03": 23
+      "2024-09-07": 20
     }
   },
   {
@@ -367,9 +366,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 287,
-    "timeWeek": 217,
-    "timeMonth": 240,
+    "timeDay": 130,
+    "timeWeek": 190,
+    "timeMonth": 241,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-06-12": 58
@@ -387,9 +386,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 281,
-    "timeWeek": 237,
-    "timeMonth": 243,
+    "timeDay": 96,
+    "timeWeek": 200,
+    "timeMonth": 240,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -399,18 +398,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "35.53%",
+    "uptime": "35.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 175,
-    "timeDay": 62,
-    "timeWeek": 184,
-    "timeMonth": 173,
+    "timeDay": 51,
+    "timeWeek": 153,
+    "timeMonth": 170,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-09-02": 262,
+      "2025-09-03": 2,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -773,8 +773,7 @@
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
-      "2024-09-04": 1440,
-      "2024-09-03": 1440
+      "2024-09-04": 1440
     }
   }
 ]
