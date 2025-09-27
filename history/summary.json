@@ -6,17 +6,16 @@
     "slug": "signal-market",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.53%",
     "time": 255,
     "timeDay": 135,
     "timeWeek": 111,
     "timeMonth": 263,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-09-27": 7,
       "2025-08-10": 29,
       "2025-08-07": 21,
       "2025-08-05": 15,
@@ -91,7 +90,8 @@
       "2025-03-10": 15,
       "2025-03-08": 67,
       "2025-03-07": 15,
-      "2025-03-05": 16
+      "2025-03-05": 16,
+      "2025-03-03": 27
     }
   },
   {
@@ -99,18 +99,19 @@
     "url": "https://tuwexinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/tuwexinc.com.ico",
     "slug": "tuwex-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 2128,
+    "time": 2130,
     "timeDay": 3732,
     "timeWeek": 2781,
     "timeMonth": 2428,
     "timeYear": 2338,
     "dailyMinutesDown": {
+      "2025-09-27": 0,
       "2025-08-28": 35,
       "2025-01-06": 32
     }
@@ -140,9 +141,9 @@
     "url": "https://admin-dev.tuwexinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.tuwexinc.com.ico",
     "slug": "admin-sandbox-tuwex-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -152,6 +153,7 @@
     "timeMonth": 368,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2025-09-27": 0,
       "2025-08-28": 34
     }
   },
@@ -161,7 +163,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "up",
-    "uptime": "78.28%",
+    "uptime": "78.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -402,7 +404,7 @@
     "timeMonth": 143,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-09-27": 1071,
+      "2025-09-27": 1159,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
