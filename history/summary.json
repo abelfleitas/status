@@ -4,18 +4,19 @@
     "url": "https://signalmarket.us",
     "icon": "https://icons.duckduckgo.com/ip3/signalmarket.us.ico",
     "slug": "signal-market",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 255,
     "timeDay": 135,
-    "timeWeek": 143,
-    "timeMonth": 282,
+    "timeWeek": 155,
+    "timeMonth": 287,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2025-10-04": 0,
       "2025-09-30": 16,
       "2025-08-10": 29,
       "2025-08-07": 21,
@@ -90,8 +91,7 @@
       "2025-03-11": 40,
       "2025-03-10": 15,
       "2025-03-08": 67,
-      "2025-03-07": 15,
-      "2025-03-05": 16
+      "2025-03-07": 15
     }
   },
   {
@@ -108,7 +108,7 @@
     "time": 2163,
     "timeDay": 3310,
     "timeWeek": 2362,
-    "timeMonth": 2392,
+    "timeMonth": 2379,
     "timeYear": 2333,
     "dailyMinutesDown": {
       "2025-08-28": 35,
@@ -121,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.tuwexinc.com.ico",
     "slug": "admin-tuwex-inc",
     "status": "up",
-    "uptime": "92.22%",
+    "uptime": "92.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -149,7 +149,7 @@
     "time": 226,
     "timeDay": 272,
     "timeWeek": 278,
-    "timeMonth": 313,
+    "timeMonth": 310,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-08-28": 34
@@ -161,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "up",
-    "uptime": "78.51%",
+    "uptime": "78.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -169,7 +169,7 @@
     "time": 3846,
     "timeDay": 9711,
     "timeWeek": 1604,
-    "timeMonth": 498,
+    "timeMonth": 534,
     "timeYear": 2728,
     "dailyMinutesDown": {
       "2025-08-28": 19,
@@ -386,7 +386,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "34.46%",
+    "uptime": "34.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -397,7 +397,7 @@
     "timeMonth": 151,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-10-04": 2,
+      "2025-10-04": 1000,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
