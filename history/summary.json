@@ -6,17 +6,16 @@
     "slug": "signal-market",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.52%",
     "time": 250,
     "timeDay": 73,
     "timeWeek": 184,
     "timeMonth": 327,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-10-12": 12,
       "2025-10-07": 85,
       "2025-09-30": 16,
       "2025-08-10": 29,
@@ -91,7 +90,7 @@
       "2025-03-12": 15,
       "2025-03-11": 40,
       "2025-03-10": 15,
-      "2025-03-08": 50
+      "2025-03-08": 67
     }
   },
   {
@@ -161,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuwexinc.com.ico",
     "slug": "tuwexinc-api",
     "status": "up",
-    "uptime": "78.83%",
+    "uptime": "78.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -333,8 +332,7 @@
       "2024-11-01": 59,
       "2024-10-19": 18,
       "2024-10-18": 33,
-      "2024-10-17": 34,
-      "2024-10-13": 19
+      "2024-10-17": 34
     }
   },
   {
@@ -381,7 +379,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apibotphp2.herokuapp.com.ico",
     "slug": "api-bot-php",
     "status": "down",
-    "uptime": "34.17%",
+    "uptime": "34.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -392,7 +390,8 @@
     "timeMonth": 172,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-10-12": 1399,
+      "2025-10-13": 2,
+      "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -755,8 +754,7 @@
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
-      "2024-10-14": 1440,
-      "2024-10-13": 1440
+      "2024-10-14": 1440
     }
   }
 ]
