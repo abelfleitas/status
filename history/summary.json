@@ -4,18 +4,19 @@
     "url": "https://signalmarket.us",
     "icon": "https://icons.duckduckgo.com/ip3/signalmarket.us.ico",
     "slug": "signal-market",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.53%",
-    "time": 258,
-    "timeDay": 103,
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.54%",
+    "time": 259,
+    "timeDay": 111,
     "timeWeek": 125,
     "timeMonth": 145,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2025-11-26": 7,
       "2025-11-08": 16,
       "2025-10-19": 21,
       "2025-10-15": 18,
@@ -90,8 +91,7 @@
       "2025-03-18": 21,
       "2025-03-17": 56,
       "2025-03-14": 35,
-      "2025-03-12": 15,
-      "2025-03-11": 40
+      "2025-03-12": 15
     }
   },
   {
@@ -103,7 +103,7 @@
     "uptime": "97.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.10%",
+    "uptimeMonth": "40.08%",
     "uptimeYear": "94.97%",
     "time": 2323,
     "timeDay": 259,
@@ -111,7 +111,7 @@
     "timeMonth": 1475,
     "timeYear": 2301,
     "dailyMinutesDown": {
-      "2025-11-26": 1069,
+      "2025-11-26": 1076,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 166,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-11-26": 1069,
+      "2025-11-26": 1077,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
